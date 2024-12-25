@@ -18,7 +18,7 @@ A beautiful and responsive weather application that provides real-time weather i
 <div align="center">
   
   [![Live Preview](https://img.shields.io/badge/LIVE-PREVIEW-brightgreen?style=for-the-badge&logo=github)](https://tayyabdevpro.github.io/Weather-Application/)
-  
+
 </div>
 
 ## 🛠️ Technologies Used
